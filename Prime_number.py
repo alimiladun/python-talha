@@ -14,5 +14,4 @@ while True:
     
 
     Enter_Number = input("Enter a prime number: ")
-    
 
