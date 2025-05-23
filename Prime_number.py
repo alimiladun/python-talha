@@ -12,6 +12,7 @@ while True:
     else:
         print("Please enter a valid number.")
     
+    print("Do you want to continue? (yes/no)")
 
     Enter_Number = input("Enter a prime number: ")
 
